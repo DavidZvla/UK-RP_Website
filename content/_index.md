@@ -5,5 +5,5 @@ copyright: "uk-rp.com"
 description: "Comunidad nacida del servidor Unknown Roleplay creado para SA-MP"
 
 menu:
-    - {url: "https://discord.gg/Av6MDD9", name: "Discord"}
+    - {url: "https://discord.gg/Av6MDD9", name: "Discord", target: "_blank"}
 ---
