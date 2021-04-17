@@ -1,0 +1,17 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "UK-Corp. Community"
+theme = "grayscale"
+#googleAnalytics = ""
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+    # Provide some metadata for search and indexing services
+    description = "Comunidad nacida del servidor Unknown Roleplay creado para SA-MP"
+
+[Author]
+    name = "Alterego"
+    email = "zavalak47@protonmail.com"
+
+[Social]
+    twitter = "none"
