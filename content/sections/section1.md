@@ -12,6 +12,7 @@ En un lapso de 5 años hemos abierto 2 servidores que se han vuelto populares y 
 En la actualidad... nos convertimos en una comunidad de jugadores de Elite, con usuarios de toda America Latina siguiendo nuestros proyectos y pasandola bien.
 
 No dejes de sintonizar las noticias sobre nuestros nuevos proyectos lanzar.
+
 UK-Corp ha vuelto
 
 Buscanos en [Discord](https://discord.gg/Av6MDD9)
