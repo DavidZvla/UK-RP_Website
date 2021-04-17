@@ -6,5 +6,4 @@ description: "Comunidad nacida del servidor Unknown Roleplay creado para SA-MP"
 
 menu:
     - {url: "https://discord.gg/Av6MDD9", name: "Discord"}
-    - {url: "/content/test.md", name: "tester"}
 ---
