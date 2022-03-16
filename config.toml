@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "UK-Corp. Community"
+title = "UK-Corp. Gaming Community"
 theme = "grayscale"
 #googleAnalytics = ""
 disableKinds = ["taxonomy", "taxonomyTerm"]
